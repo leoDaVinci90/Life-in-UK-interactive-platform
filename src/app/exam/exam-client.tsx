@@ -173,7 +173,7 @@ export function ExamClient() {
   const q = questions[i];
   return (
     <div className="grid gap-6">
-      <div className="sticky top-0 z-20 sm:top-[57px] -mx-4 grid gap-2 border-b hairline bg-paper/95 px-4 py-3 backdrop-blur sm:-mx-8 sm:px-8">
+      <div className="sticky top-0 z-20 sm:top-[var(--header-h)] -mx-4 grid gap-2 border-b hairline bg-paper/95 px-4 py-3 backdrop-blur sm:-mx-8 sm:px-8">
         <div className="flex items-center justify-between font-sans text-sm">
           <span className="text-ink-2">
             {answered} of {questions.length} answered

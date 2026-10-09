@@ -2,67 +2,80 @@
 
 @custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
 
-/* Design tokens: warm paper, ink, oxblood accent, antique gold for dates. */
+/*
+ * Identity: an engraved history book. Parchment pages, espresso ink,
+ * terracotta and oxblood accents, antique gold for dates and frames.
+ */
 :root {
-  --paper: #f5f1e8;
-  --paper-2: #ede7da;
-  --card: #fbf9f4;
-  --ink: #1c1b19;
-  --ink-2: #4a4640;
-  --muted: #7a7368;
-  --rule: #ddd5c6;
-  --accent: #8a2e24;
-  --accent-soft: #f1e2dc;
-  --gold: #9c7a3c;
-  --gold-soft: #f2ead8;
-  --sage: #4e6b55;
-  --sage-soft: #e3ebe2;
-  --danger: #a33a2c;
-  --land: #e4dccb;
-  --land-uk: #d6cbb3;
-  --sea: #eef0ea;
+  --paper: #ebe2d0;
+  --paper-2: #e0d4bc;
+  --card: #f3ecdf;
+  --ink: #1f1813;
+  --ink-2: #4b3e33;
+  --muted: #84766a;
+  --rule: #cbbca2;
+  --accent: #b5532c; /* terracotta */
+  --accent-soft: #f1dccb;
+  --wine: #6d2b26; /* oxblood */
+  --gold: #8f6a2c;
+  --gold-soft: #e8dbbd;
+  --sage: #52684d;
+  --sage-soft: #dfe5d6;
+  --danger: #a3372a;
+  --land: #ddd1b8;
+  --land-uk: #cdbd9c;
+  --sea: #ece5d6;
+  --night: #15110d; /* the dark frame around the pages */
+  --night-ink: #e9dfcb;
+  --header-h: 58px;
 }
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --paper: #15140f;
-    --paper-2: #1d1b16;
-    --card: #1f1d18;
-    --ink: #ede7da;
-    --ink-2: #c9c1b2;
-    --muted: #9a917f;
-    --rule: #34302a;
-    --accent: #d9846f;
-    --accent-soft: #3a221c;
-    --gold: #d1ad66;
-    --gold-soft: #2f2817;
-    --sage: #94b59c;
-    --sage-soft: #1f2a22;
+    --paper: #17120e;
+    --paper-2: #211a14;
+    --card: #221b15;
+    --ink: #ece2cf;
+    --ink-2: #cbbfaa;
+    --muted: #9b8e7b;
+    --rule: #3a3027;
+    --accent: #df7b52;
+    --accent-soft: #3b231a;
+    --wine: #c9675e;
+    --gold: #d2ae6a;
+    --gold-soft: #30271a;
+    --sage: #98b590;
+    --sage-soft: #1f2a1e;
     --danger: #e48a79;
-    --land: #2a2720;
-    --land-uk: #3a352b;
-    --sea: #17171a;
+    --land: #2b241d;
+    --land-uk: #3c3227;
+    --sea: #1b1612;
+    --night: #0c0907;
+    --night-ink: #e9dfcb;
   }
 }
 
 :root[data-theme="dark"] {
-  --paper: #15140f;
-  --paper-2: #1d1b16;
-  --card: #1f1d18;
-  --ink: #ede7da;
-  --ink-2: #c9c1b2;
-  --muted: #9a917f;
-  --rule: #34302a;
-  --accent: #d9846f;
-  --accent-soft: #3a221c;
-  --gold: #d1ad66;
-  --gold-soft: #2f2817;
-  --sage: #94b59c;
-  --sage-soft: #1f2a22;
+  --paper: #17120e;
+  --paper-2: #211a14;
+  --card: #221b15;
+  --ink: #ece2cf;
+  --ink-2: #cbbfaa;
+  --muted: #9b8e7b;
+  --rule: #3a3027;
+  --accent: #df7b52;
+  --accent-soft: #3b231a;
+  --wine: #c9675e;
+  --gold: #d2ae6a;
+  --gold-soft: #30271a;
+  --sage: #98b590;
+  --sage-soft: #1f2a1e;
   --danger: #e48a79;
-  --land: #2a2720;
-  --land-uk: #3a352b;
-  --sea: #17171a;
+  --land: #2b241d;
+  --land-uk: #3c3227;
+  --sea: #1b1612;
+  --night: #0c0907;
+  --night-ink: #e9dfcb;
 }
 
 @theme inline {
@@ -75,13 +88,18 @@
   --color-rule: var(--rule);
   --color-accent: var(--accent);
   --color-accent-soft: var(--accent-soft);
+  --color-wine: var(--wine);
   --color-gold: var(--gold);
   --color-gold-soft: var(--gold-soft);
   --color-sage: var(--sage);
   --color-sage-soft: var(--sage-soft);
   --color-danger: var(--danger);
-  --font-serif: var(--font-newsreader), Georgia, serif;
+  --color-night: var(--night);
+  --color-night-ink: var(--night-ink);
+  /* Body copy and labels are Inter; titles and large type are Metamorphous. */
+  --font-serif: var(--font-inter), system-ui, sans-serif;
   --font-sans: var(--font-inter), system-ui, sans-serif;
+  --font-display: var(--font-metamorphous), Georgia, serif;
 }
 
 @layer base {
@@ -99,52 +117,108 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
+/* Parchment: a faint paper grain over the page colour. */
 body {
-  background: var(--paper);
+  background-color: var(--paper);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.35 0 0 0 0 0.27 0 0 0 0 0.18 0 0 0 0.09 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
   color: var(--ink);
   font-family: var(--font-inter), system-ui, sans-serif;
-  font-feature-settings: "ss01", "cv11";
+  font-feature-settings: "cv11", "ss03";
 }
 
 ::selection {
   background: var(--gold-soft);
 }
 
-/* Small caps label used for kickers and metadata. */
+/* Uppercase label used for kickers and metadata. */
 .kicker {
   font-family: var(--font-inter), system-ui, sans-serif;
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   font-weight: 600;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
   color: var(--muted);
 }
 
 /* Long-form reading text. */
 .prose-body p {
-  font-family: var(--font-newsreader), Georgia, serif;
-  font-size: 1.1875rem;
-  line-height: 1.7;
+  font-family: var(--font-inter), system-ui, sans-serif;
+  font-size: 1.0625rem;
+  line-height: 1.78;
   color: var(--ink);
 }
 .prose-body p + p {
   margin-top: 1rem;
 }
 
+/* Titles and large type. */
 .display {
-  font-family: var(--font-newsreader), Georgia, serif;
-  font-weight: 500;
-  letter-spacing: -0.015em;
-  line-height: 1.05;
+  font-family: var(--font-metamorphous), Georgia, serif;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  line-height: 1.12;
+}
+h1.display {
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  line-height: 1.04;
 }
 
 .numeral {
-  font-family: var(--font-newsreader), Georgia, serif;
-  font-variant-numeric: oldstyle-nums proportional-nums;
+  font-family: var(--font-metamorphous), Georgia, serif;
+  font-variant-numeric: lining-nums;
 }
 
 .hairline {
   border-color: var(--rule);
+}
+
+/* An engraved rule with a diamond, used under titles. */
+.ornament {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: var(--gold);
+}
+.ornament::before,
+.ornament::after {
+  content: "";
+  height: 1px;
+  flex: 1;
+  background: currentColor;
+  opacity: 0.55;
+}
+
+/*
+ * Victorian gilt frame. The moulding is cut from a photograph of the
+ * 19th-century Louis XV revival frame on Constable's "Chain Pier, Brighton"
+ * (public domain), drawn as a 9-slice border so it fits any picture.
+ * The drop shadow follows the carved outline onto the wall.
+ */
+.painting-frame {
+  position: relative;
+  border-style: solid;
+  border-width: clamp(24px, 4vw, 56px) clamp(25px, 4.15vw, 58px) clamp(28px, 4.65vw, 65px) clamp(24px, 4vw, 56px);
+  border-image: url("/images/frame-victorian.webp") 85 89 99 86 stretch;
+  filter: drop-shadow(0 3px 2px rgba(30, 18, 8, 0.35)) drop-shadow(0 22px 22px rgba(30, 18, 8, 0.42));
+}
+.painting-frame::after {
+  /* Shadow the moulding casts onto the picture. */
+  content: "";
+  position: absolute;
+  inset: 0;
+  box-shadow: inset 0 3px 10px rgba(0, 0, 0, 0.5), inset 0 0 3px rgba(0, 0, 0, 0.55);
+  pointer-events: none;
+}
+.painting-frame img {
+  display: block;
+}
+
+/* Torn-paper edge for hero panels. */
+.torn-bottom {
+  --tear: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 24' preserveAspectRatio='none'%3E%3Cpath d='M0 0H1200V12L1180 10L1158 7L1146 9L1125 7L1099 12L1088 8L1065 19L1053 13L1041 19L1030 9L1013 7L985 18L974 13L963 10L944 19L930 9L902 15L875 11L862 12L841 9L814 8L786 7L770 21L743 19L723 20L695 20L674 15L657 11L640 8L612 15L586 21L566 20L547 8L534 22L511 11L491 10L466 19L455 8L428 16L408 17L383 20L371 8L353 21L341 7L322 20L303 18L282 6L258 17L243 9L218 7L202 15L188 13L166 18L141 8L126 20L104 14L90 19L63 14L40 17L18 13L4 8L0 10Z'/%3E%3C/svg%3E");
+  -webkit-mask: linear-gradient(#000 0 0) top / 100% calc(100% - 20px) no-repeat, var(--tear) bottom / 100% 24px no-repeat;
+  mask: linear-gradient(#000 0 0) top / 100% calc(100% - 20px) no-repeat, var(--tear) bottom / 100% 24px no-repeat;
 }
 
 :focus-visible {

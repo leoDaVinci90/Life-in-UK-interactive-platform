@@ -1,0 +1,332 @@
+{
+  "arts-royal-albert-hall": {
+    "src": "/images/arts-royal-albert-hall.jpg",
+    "width": 1000,
+    "height": 636,
+    "title": "Royal Albert Hall.jpg",
+    "author": "Panos Asproulis from London, United Kingdom",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Albert_Hall.jpg"
+  },
+  "arts-purcell": {
+    "src": "/images/arts-purcell.jpg",
+    "width": 632,
+    "height": 775,
+    "title": "Henry Purcell Closterman.jpg",
+    "author": "John Closterman",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Henry_Purcell_Closterman.jpg"
+  },
+  "arts-handel": {
+    "src": "/images/arts-handel.jpg",
+    "width": 1920,
+    "height": 2321,
+    "title": "George Frideric Handel by Balthasar Denner.jpg",
+    "author": "Attributed to Balthasar Denner",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:George_Frideric_Handel_by_Balthasar_Denner.jpg"
+  },
+  "arts-holst": {
+    "src": "/images/arts-holst.jpg",
+    "width": 731,
+    "height": 1025,
+    "title": "Gustav Holst.jpg",
+    "author": "Herbert Lambert",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gustav_Holst.jpg"
+  },
+  "arts-elgar": {
+    "src": "/images/arts-elgar.jpg",
+    "width": 697,
+    "height": 698,
+    "title": "Edward Elgar.jpg",
+    "author": "Unknown authorUnknown author",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edward_Elgar.jpg"
+  },
+  "arts-vaughan-williams": {
+    "src": "/images/arts-vaughan-williams.png",
+    "width": 463,
+    "height": 612,
+    "title": "Ralph Vaughan Williams 1920s.png",
+    "author": "Herbert Lambert (1882-1936)",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ralph_Vaughan_Williams_1920s.png"
+  },
+  "arts-britten": {
+    "src": "/images/arts-britten.jpg",
+    "width": 1240,
+    "height": 1328,
+    "title": "Benjamin Britten, London Records 1968 publicity photo for Wikipedia (restored).jpg",
+    "author": "According to information on the photograph, it was originally taken by photographer Hans Wild for High Fidelity magazine (published in the United States).",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Benjamin_Britten,_London_Records_1968_publicity_photo_for_Wikipedia_(restored).jpg"
+  },
+  "arts-beatles": {
+    "src": "/images/arts-beatles.jpg",
+    "width": 1920,
+    "height": 1355,
+    "title": "The Beatles arrive at JFK Airport.jpg",
+    "author": "United Press International, photographer unknown",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Beatles_arrive_at_JFK_Airport.jpg"
+  },
+  "arts-mousetrap": {
+    "src": "/images/arts-mousetrap.jpg",
+    "width": 1024,
+    "height": 768,
+    "title": "The Mousetrap, St Martin's Theatre - geograph.org.uk - 2175378.jpg",
+    "author": "Philip Halling",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Mousetrap,_St_Martin%27s_Theatre_-_geograph.org.uk_-_2175378.jpg"
+  },
+  "arts-mikado": {
+    "src": "/images/arts-mikado.jpg",
+    "width": 1920,
+    "height": 2677,
+    "title": "Mikado - Weir Collection.jpg",
+    "author": "Strobridge &amp; Co. Lith.",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mikado_-_Weir_Collection.jpg"
+  },
+  "arts-gainsborough": {
+    "src": "/images/arts-gainsborough.jpg",
+    "width": 1920,
+    "height": 1113,
+    "title": "Thomas Gainsborough - Mr and Mrs Andrews.jpg",
+    "author": "Thomas Gainsborough",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thomas_Gainsborough_-_Mr_and_Mrs_Andrews.jpg"
+  },
+  "arts-turner": {
+    "src": "/images/arts-turner.jpg",
+    "width": 1920,
+    "height": 1426,
+    "title": "Turner, J. M. W. - The Fighting Téméraire tugged to her last Berth to be broken.jpg",
+    "author": "J. M. W. Turner",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turner,_J._M._W._-_The_Fighting_T%C3%A9m%C3%A9raire_tugged_to_her_last_Berth_to_be_broken.jpg"
+  },
+  "arts-hay-wain": {
+    "src": "/images/arts-hay-wain.jpg",
+    "width": 1920,
+    "height": 1324,
+    "title": "John Constable - The Hay Wain (1821).jpg",
+    "author": "John Constable",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Constable_-_The_Hay_Wain_(1821).jpg"
+  },
+  "arts-ophelia": {
+    "src": "/images/arts-ophelia.jpg",
+    "width": 1920,
+    "height": 1306,
+    "title": "John Everett Millais - Ophelia - Google Art Project.jpg",
+    "author": "John Everett Millais",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg"
+  },
+  "arts-henry-moore": {
+    "src": "/images/arts-henry-moore.jpg",
+    "width": 1920,
+    "height": 1870,
+    "title": "Locking Piece by Henry Moore. Millbank, London.jpg",
+    "author": "Ввласенко",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Locking_Piece_by_Henry_Moore._Millbank,_London.jpg"
+  },
+  "arts-durham": {
+    "src": "/images/arts-durham.jpg",
+    "width": 1920,
+    "height": 1157,
+    "title": "Durham MMB 02 Cathedral.jpg",
+    "author": "mattbuck (category)",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Durham_MMB_02_Cathedral.jpg"
+  },
+  "arts-salisbury": {
+    "src": "/images/arts-salisbury.jpg",
+    "width": 1295,
+    "height": 1096,
+    "title": "Salisbury Cathedral.jpg",
+    "author": "Andrew Dunn (Website: http://www.andrewdunnphoto.com/)",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salisbury_Cathedral.jpg"
+  },
+  "arts-queens-house": {
+    "src": "/images/arts-queens-house.jpg",
+    "width": 1920,
+    "height": 1440,
+    "title": "Queen's House, Greenwich.jpg",
+    "author": "Mark Ahsmann",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen%27s_House,_Greenwich.jpg"
+  },
+  "arts-st-pauls": {
+    "src": "/images/arts-st-pauls.jpg",
+    "width": 1920,
+    "height": 1440,
+    "title": "St Paul's Cathedral, London.jpg",
+    "author": "markpeate",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral,_London.jpg"
+  },
+  "arts-royal-crescent": {
+    "src": "/images/arts-royal-crescent.jpg",
+    "width": 1920,
+    "height": 907,
+    "title": "Royal Crescent, Bath.jpg",
+    "author": "MontanNito",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Crescent,_Bath.jpg"
+  },
+  "arts-st-pancras": {
+    "src": "/images/arts-st-pancras.jpg",
+    "width": 1920,
+    "height": 1619,
+    "title": "St Pancras Railway Station 2012-06-23.jpg",
+    "author": "Colin",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Pancras_Railway_Station_2012-06-23.jpg"
+  },
+  "arts-cenotaph": {
+    "src": "/images/arts-cenotaph.jpg",
+    "width": 1920,
+    "height": 2438,
+    "title": "UK-2014-London-The Cenotaph.jpg",
+    "author": "Godot13",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:UK-2014-London-The_Cenotaph.jpg"
+  },
+  "arts-austen": {
+    "src": "/images/arts-austen.jpg",
+    "width": 1920,
+    "height": 2477,
+    "title": "CassandraAusten-JaneAusten(c.1810) hires.jpg",
+    "author": "Cassandra Austen",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:CassandraAusten-JaneAusten(c.1810)_hires.jpg"
+  },
+  "arts-dickens": {
+    "src": "/images/arts-dickens.jpg",
+    "width": 814,
+    "height": 1190,
+    "title": "Dickens Gurney head.jpg",
+    "author": "Jeremiah Gurney",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dickens_Gurney_head.jpg"
+  },
+  "arts-stevenson": {
+    "src": "/images/arts-stevenson.jpg",
+    "width": 1066,
+    "height": 1422,
+    "title": "Robert Louis Stevenson by Henry Walter Barnett bw.jpg",
+    "author": "Henry Walter Barnett",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert_Louis_Stevenson_by_Henry_Walter_Barnett_bw.jpg"
+  },
+  "arts-conan-doyle": {
+    "src": "/images/arts-conan-doyle.png",
+    "width": 517,
+    "height": 682,
+    "title": "Arthur Conan Doyle by Walter Benington, 1914.png",
+    "author": "Walter Benington",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arthur_Conan_Doyle_by_Walter_Benington,_1914.png"
+  },
+  "arts-beowulf": {
+    "src": "/images/arts-beowulf.jpg",
+    "width": 363,
+    "height": 576,
+    "title": "Beowulf.firstpage.jpeg",
+    "author": "Unknown",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beowulf.firstpage.jpeg"
+  },
+  "arts-chaucer": {
+    "src": "/images/arts-chaucer.jpg",
+    "width": 948,
+    "height": 1092,
+    "title": "Chaucer ellesmere.jpg",
+    "author": "Unknown",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chaucer_ellesmere.jpg"
+  },
+  "arts-wordsworth": {
+    "src": "/images/arts-wordsworth.jpg",
+    "width": 401,
+    "height": 500,
+    "title": "William Wordsworth 001.jpg",
+    "author": "National Portrait Gallery",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_Wordsworth_001.jpg"
+  },
+  "arts-tyger": {
+    "src": "/images/arts-tyger.jpg",
+    "width": 798,
+    "height": 1343,
+    "title": "The Tyger BM a 1794.jpg",
+    "author": "William Blake",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Tyger_BM_a_1794.jpg"
+  },
+  "arts-owen": {
+    "src": "/images/arts-owen.jpg",
+    "width": 1370,
+    "height": 1910,
+    "title": "Wilfred Owen plate from Poems (1920).jpg",
+    "author": "Unknown authorUnknown author",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wilfred_Owen_plate_from_Poems_(1920).jpg"
+  },
+  "arts-byron": {
+    "src": "/images/arts-byron.jpg",
+    "width": 1920,
+    "height": 2510,
+    "title": "George Gordon Byron, 6th Baron Byron by Richard Westall (2).jpg",
+    "author": "Richard Westall",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:George_Gordon_Byron,_6th_Baron_Byron_by_Richard_Westall_(2).jpg"
+  },
+  "arts-hardwick-hall": {
+    "src": "/images/arts-hardwick-hall.jpg",
+    "width": 1920,
+    "height": 1280,
+    "title": "Hardwick Hall (NT) & Hardwick Old Hall (EH) 06-07-2013.jpg",
+    "author": "Karen Roe from Bury St Edmunds, Suffolk, UK",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hardwick_Hall_(NT)_%26_Hardwick_Old_Hall_(EH)_06-07-2013.jpg"
+  }
+}

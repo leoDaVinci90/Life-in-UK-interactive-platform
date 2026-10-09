@@ -1,0 +1,172 @@
+{
+  "sport-wembley": {
+    "src": "/images/sport-wembley.jpg",
+    "width": 1920,
+    "height": 1438,
+    "title": "London Wembley.jpg",
+    "author": "Arne Müseler",
+    "licence": "CC BY-SA 3.0 de",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:London_Wembley.jpg"
+  },
+  "sport-millennium-stadium": {
+    "src": "/images/sport-millennium-stadium.jpg",
+    "width": 1920,
+    "height": 1280,
+    "title": "Millennium Stadium, view from Fitzhamon Embankment.jpg",
+    "author": "Dominic Nelson",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Millennium_Stadium,_view_from_Fitzhamon_Embankment.jpg"
+  },
+  "sport-olympic-stadium": {
+    "src": "/images/sport-olympic-stadium.jpg",
+    "width": 1920,
+    "height": 1272,
+    "title": "Olympic stadium and The Orbit during London Olympics opening ceremony (2012-07-27) 2.jpg",
+    "author": "Alexander Kachkaev",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Olympic_stadium_and_The_Orbit_during_London_Olympics_opening_ceremony_(2012-07-27)_2.jpg"
+  },
+  "sport-bannister": {
+    "src": "/images/sport-bannister.jpg",
+    "width": 1210,
+    "height": 2778,
+    "title": "Roger Bannister 1954.jpg",
+    "author": "Unknown authorUnknown author",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roger_Bannister_1954.jpg"
+  },
+  "sport-bobby-moore": {
+    "src": "/images/sport-bobby-moore.jpg",
+    "width": 1110,
+    "height": 2420,
+    "title": "Bobby Moore statue.jpg",
+    "author": "Francesco Gasparetti from Senigallia, Italy",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bobby_Moore_statue.jpg"
+  },
+  "sport-ellen-macarthur": {
+    "src": "/images/sport-ellen-macarthur.jpg",
+    "width": 754,
+    "height": 1065,
+    "title": "Ellen MacArthur, 2010 (cropped).jpg",
+    "author": "Amplified2010",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ellen_MacArthur,_2010_(cropped).jpg"
+  },
+  "sport-chris-hoy": {
+    "src": "/images/sport-chris-hoy.jpg",
+    "width": 544,
+    "height": 952,
+    "title": "Chris Hoy.jpg",
+    "author": "johnthescone",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chris_Hoy.jpg"
+  },
+  "sport-bradley-wiggins": {
+    "src": "/images/sport-bradley-wiggins.jpg",
+    "width": 1920,
+    "height": 1440,
+    "title": "Bradley Wiggins.jpg",
+    "author": "Flickr member Elyob",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bradley_Wiggins.jpg"
+  },
+  "sport-mo-farah": {
+    "src": "/images/sport-mo-farah.jpg",
+    "width": 1920,
+    "height": 1278,
+    "title": "Mo Farah.jpg",
+    "author": "Foreign and Commonwealth Office",
+    "licence": "OGL v1.0",
+    "licenceUrl": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mo_Farah.jpg"
+  },
+  "sport-jessica-ennis": {
+    "src": "/images/sport-jessica-ennis.jpg",
+    "width": 489,
+    "height": 976,
+    "title": "Jessica Ennis.jpg",
+    "author": "Eckhard Pecher (Arcimboldo)",
+    "licence": "CC BY 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jessica_Ennis.jpg"
+  },
+  "sport-andy-murray": {
+    "src": "/images/sport-andy-murray.jpg",
+    "width": 255,
+    "height": 405,
+    "title": "Andy Murray.jpg",
+    "author": "Nick Hewson",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andy_Murray.jpg"
+  },
+  "sport-lords": {
+    "src": "/images/sport-lords.jpg",
+    "width": 800,
+    "height": 533,
+    "title": "Lord's Pavilion.jpg",
+    "author": "Ben Marsh[1]",
+    "licence": "CC BY-SA 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lord%27s_Pavilion.jpg"
+  },
+  "sport-ascot": {
+    "src": "/images/sport-ascot.jpg",
+    "width": 1920,
+    "height": 1395,
+    "title": "The Grandstand at Ascot Racecourse - geograph.org.uk - 3530641.jpg",
+    "author": "Anthony Parkes",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Grandstand_at_Ascot_Racecourse_-_geograph.org.uk_-_3530641.jpg"
+  },
+  "sport-st-andrews": {
+    "src": "/images/sport-st-andrews.jpg",
+    "width": 1920,
+    "height": 1280,
+    "title": "Swilcan Bridge.jpg",
+    "author": "Standrewslinks",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Swilcan_Bridge.jpg"
+  },
+  "sport-wimbledon": {
+    "src": "/images/sport-wimbledon.jpg",
+    "width": 1920,
+    "height": 1440,
+    "title": "Wimbledon Centre Court.jpg",
+    "author": "Danbu14",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wimbledon_Centre_Court.jpg"
+  },
+  "sport-gipsy-moth": {
+    "src": "/images/sport-gipsy-moth.jpg",
+    "width": 640,
+    "height": 429,
+    "title": "Gipsy Moth IV - geograph.org.uk - 852043.jpg",
+    "author": "Stanley Howe",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gipsy_Moth_IV_-_geograph.org.uk_-_852043.jpg"
+  },
+  "sport-boat-race": {
+    "src": "/images/sport-boat-race.jpg",
+    "width": 979,
+    "height": 640,
+    "title": "Boat race 1877.JPG",
+    "author": "Unknown authorUnknown author",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boat_race_1877.JPG"
+  }
+}

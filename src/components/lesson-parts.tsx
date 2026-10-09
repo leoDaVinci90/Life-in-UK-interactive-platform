@@ -78,7 +78,7 @@ export function ExpandableCards({ cards }: { cards: InfoCard[] }) {
               aria-expanded={isOpen}
             >
               {c.meta && <span className="kicker !text-[0.62rem]">{c.meta}</span>}
-              <span className="font-serif text-[1.35rem] leading-tight text-ink">{c.title}</span>
+              <span className="font-display text-[1.35rem] leading-tight text-ink">{c.title}</span>
               <span className="font-sans text-sm text-ink-2">{c.summary}</span>
               <span className="mt-2 font-sans text-xs font-medium text-accent">{isOpen ? "Show less" : "Read more"}</span>
             </button>

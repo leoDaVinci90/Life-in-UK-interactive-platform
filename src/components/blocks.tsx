@@ -63,8 +63,8 @@ export function Blocks({ blocks, places }: { blocks: Block[]; places: Place[] })
                   {b.steps.map((s, n) => (
                     <li key={s.label} className="bg-card p-5">
                       <span className="numeral text-2xl text-gold">{n + 1}</span>
-                      <p className="mt-1 font-serif text-[1.25rem] text-ink">{s.label}</p>
-                      <p className="mt-1 font-sans text-sm leading-relaxed text-ink-2">{s.detail}</p>
+                      <p className="mt-1 font-display text-[1.25rem] text-ink">{s.label}</p>
+                      {s.detail && <p className="mt-1 font-sans text-sm leading-relaxed text-ink-2">{s.detail}</p>}
                     </li>
                   ))}
                 </ol>
@@ -73,7 +73,7 @@ export function Blocks({ blocks, places }: { blocks: Block[]; places: Place[] })
           case "quote":
             return (
               <blockquote key={i} className="my-10 border-l-2 border-accent pl-6">
-                <p className="font-serif text-2xl italic leading-snug text-ink">{b.text}</p>
+                <p className="font-display text-2xl leading-snug text-ink">{b.text}</p>
                 <footer className="mt-2 font-sans text-sm text-muted">{b.attribution}</footer>
               </blockquote>
             );

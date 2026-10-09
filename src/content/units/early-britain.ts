@@ -260,12 +260,12 @@ export const earlyBritain: Unit = {
           figures: [
             {
               imageId: "julius-caesar",
-              kind: "artefact",
+              kind: "portrait",
               caption: "Julius Caesar: ancient Roman marble portrait.",
             },
             {
               imageId: "claudius",
-              kind: "artefact",
+              kind: "portrait",
               caption: "Emperor Claudius: ancient Roman marble portrait, Naples.",
             },
           ],

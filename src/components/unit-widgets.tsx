@@ -80,7 +80,7 @@ export function LessonList({ unitId }: { unitId: string }) {
                   Lesson {i + 1} · {l.minutes} min
                   {done && <span className="text-sage">· Done{done.check ? ` ${done.check.score}/${done.check.total}` : ""}</span>}
                 </span>
-                <span className="font-serif text-[1.25rem] leading-tight text-ink group-hover:text-accent">{l.title}</span>
+                <span className="font-display text-[1.25rem] leading-tight text-ink group-hover:text-accent">{l.title}</span>
                 <span className="font-sans text-sm leading-snug text-ink-2">{l.dek}</span>
               </div>
             </Link>

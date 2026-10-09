@@ -1,0 +1,62 @@
+{
+  "go-downing-street": {
+    "src": "/images/go-downing-street.jpg",
+    "width": 1667,
+    "height": 1076,
+    "title": "10 Downing Street (geograph 5423142).jpg",
+    "author": "Philip Halling",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:10_Downing_Street_(geograph_5423142).jpg"
+  },
+  "go-chequers": {
+    "src": "/images/go-chequers.jpg",
+    "width": 1920,
+    "height": 1203,
+    "title": "Chequers (cropped).jpg",
+    "author": "Cnbrb",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chequers_(cropped).jpg"
+  },
+  "go-holyrood": {
+    "src": "/images/go-holyrood.jpg",
+    "width": 1920,
+    "height": 1440,
+    "title": "Scottish Parliament building, Holyrood, Edinburgh (2024).jpg",
+    "author": "Darren J. Prior",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scottish_Parliament_building,_Holyrood,_Edinburgh_(2024).jpg"
+  },
+  "go-senedd": {
+    "src": "/images/go-senedd.jpg",
+    "width": 1920,
+    "height": 1079,
+    "title": "The Senedd, Cardiff Bay, South Wales. Frontage.jpg",
+    "author": "Rosser1954",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Senedd,_Cardiff_Bay,_South_Wales._Frontage.jpg"
+  },
+  "go-stormont": {
+    "src": "/images/go-stormont.jpg",
+    "width": 1920,
+    "height": 1152,
+    "title": "Parliament Buildings at Stormont - geograph.org.uk - 4702838.jpg",
+    "author": "Gareth James",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parliament_Buildings_at_Stormont_-_geograph.org.uk_-_4702838.jpg"
+  },
+  "go-polling-station": {
+    "src": "/images/go-polling-station.jpg",
+    "width": 1920,
+    "height": 1440,
+    "title": "Polling station 6 may 2010.jpg",
+    "author": "secretlondon123",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Polling_station_6_may_2010.jpg"
+  }
+}

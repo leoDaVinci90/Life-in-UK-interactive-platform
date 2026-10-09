@@ -1,0 +1,52 @@
+{
+  "in-commonwealth-flags": {
+    "src": "/images/in-commonwealth-flags.jpg",
+    "width": 1920,
+    "height": 1363,
+    "title": "Flags of the Commonwealth flying in Parliament Square, London.jpg",
+    "author": "Foreign and Commonwealth Office",
+    "licence": "OGL v1.0",
+    "licenceUrl": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flags_of_the_Commonwealth_flying_in_Parliament_Square,_London.jpg"
+  },
+  "in-eu-flag": {
+    "src": "/images/in-eu-flag.jpg",
+    "width": 1920,
+    "height": 1282,
+    "title": "European flag in Karlskrona 2011.jpg",
+    "author": "MPD01605",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:European_flag_in_Karlskrona_2011.jpg"
+  },
+  "in-un-security-council": {
+    "src": "/images/in-un-security-council.jpg",
+    "width": 1920,
+    "height": 1227,
+    "title": "UN Security Council Nov 16 2023.jpg",
+    "author": "Wikiweeki",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:UN_Security_Council_Nov_16_2023.jpg"
+  },
+  "in-nato-hq": {
+    "src": "/images/in-nato-hq.jpg",
+    "width": 1920,
+    "height": 933,
+    "title": "Brussels-NATO headquarters.jpg",
+    "author": "Romaine",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brussels-NATO_headquarters.jpg"
+  },
+  "in-council-of-europe": {
+    "src": "/images/in-council-of-europe.jpg",
+    "width": 1920,
+    "height": 1272,
+    "title": "Council of Europe Palais de l'Europe.JPG",
+    "author": "Council of Europe",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Council_of_Europe_Palais_de_l%27Europe.JPG"
+  }
+}

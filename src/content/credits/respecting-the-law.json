@@ -1,0 +1,42 @@
+{
+  "rl-royal-courts-of-justice": {
+    "src": "/images/rl-royal-courts-of-justice.jpg",
+    "width": 1920,
+    "height": 1285,
+    "title": "View of the Royal Courts of Justice from the Strand ^5 - geograph.org.uk - 5164657.jpg",
+    "author": "Robert Lamb",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_the_Royal_Courts_of_Justice_from_the_Strand_%5E5_-_geograph.org.uk_-_5164657.jpg"
+  },
+  "rl-court-of-session-building": {
+    "src": "/images/rl-court-of-session-building.jpg",
+    "width": 1920,
+    "height": 1334,
+    "title": "Court of Session - geograph.org.uk - 7047376.jpg",
+    "author": "Lauren",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Court_of_Session_-_geograph.org.uk_-_7047376.jpg"
+  },
+  "rl-police-patrol": {
+    "src": "/images/rl-police-patrol.jpg",
+    "width": 1100,
+    "height": 1488,
+    "title": "Police.three.on.patrol.london.arp.jpg",
+    "author": "Arpingstone",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Police.three.on.patrol.london.arp.jpg"
+  },
+  "rl-magistrates-court": {
+    "src": "/images/rl-magistrates-court.jpg",
+    "width": 1920,
+    "height": 1440,
+    "title": "Magistrates Court York 01.jpg",
+    "author": "Malcolmxl5",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Magistrates_Court_York_01.jpg"
+  }
+}

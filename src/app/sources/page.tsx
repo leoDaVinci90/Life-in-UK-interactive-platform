@@ -95,6 +95,23 @@ export default function SourcesPage() {
         <h2 className="display text-[1.8rem]">Maps</h2>
         <p className="mt-2 max-w-2xl font-sans text-sm text-ink-2">{basemap.source}. Simplified and projected for this site.</p>
       </section>
+
+      <section className="mt-14">
+        <h2 className="display text-[1.8rem]">Picture frame</h2>
+        <p className="mt-2 max-w-2xl font-sans text-sm text-ink-2">
+          The gilt frame around pictures is cut from a photograph of the 19th-century Louis XV revival frame on John
+          Constable&apos;s <em>Chain Pier, Brighton</em> (Tate), public domain, via{" "}
+          <a
+            href="https://commons.wikimedia.org/wiki/File:Constable_-_Chain_Pier,_Brighton_-_with_frame.jpg"
+            target="_blank"
+            rel="noreferrer"
+            className="underline underline-offset-2"
+          >
+            Wikimedia Commons
+          </a>
+          .
+        </p>
+      </section>
     </div>
   );
 }

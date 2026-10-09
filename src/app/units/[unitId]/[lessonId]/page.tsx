@@ -32,7 +32,7 @@ export default async function LessonPage({ params }: { params: Promise<Params> }
   return (
     <article className="mx-auto max-w-6xl px-4 sm:px-8">
       {/* Lesson rail */}
-      <nav className="sticky top-0 z-30 sm:top-[57px] -mx-4 border-b hairline bg-paper/90 px-4 py-2.5 backdrop-blur sm:-mx-8 sm:px-8" aria-label="Lessons in this part">
+      <nav className="sticky top-0 z-30 sm:top-[var(--header-h)] -mx-4 border-b hairline bg-paper/90 px-4 py-2.5 backdrop-blur sm:-mx-8 sm:px-8" aria-label="Lessons in this part">
         <div className="flex items-center gap-4 overflow-x-auto [scrollbar-width:none]">
           <Link href={`/units/${unit.id}`} className="kicker shrink-0 hover:text-ink">
             {unit.number} {unit.title}
@@ -64,8 +64,9 @@ export default async function LessonPage({ params }: { params: Promise<Params> }
           <p className="kicker">
             Lesson {index + 1} · {lesson.minutes} min read
           </p>
-          <h1 className="display mt-3 text-[2.6rem] sm:text-[3.6rem]">{lesson.title}</h1>
-          <p className="mt-4 font-serif text-[1.3rem] leading-snug text-ink-2">{lesson.dek}</p>
+          <h1 className="display mt-4 text-[2rem] sm:text-[2.9rem]">{lesson.title}</h1>
+          <div className="ornament mt-5 max-w-xs" aria-hidden><span className="text-xs">◆</span></div>
+          <p className="mt-5 text-[1.15rem] leading-relaxed text-ink-2">{lesson.dek}</p>
           <div className="mt-4">
             <SourceRef pages={lesson.pages} />
           </div>
@@ -91,17 +92,17 @@ export default async function LessonPage({ params }: { params: Promise<Params> }
           {prev ? (
             <Link href={`/units/${unit.id}/${prev.id}`} className="group">
               <span className="kicker">← Previous</span>
-              <span className="mt-1 block font-serif text-lg text-ink-2 group-hover:text-ink">{prev.title}</span>
+              <span className="mt-1 block font-display text-lg text-ink-2 group-hover:text-ink">{prev.title}</span>
             </Link>
           ) : (
             <Link href={`/units/${unit.id}`} className="group">
               <span className="kicker">← Overview</span>
-              <span className="mt-1 block font-serif text-lg text-ink-2 group-hover:text-ink">{unit.title}</span>
+              <span className="mt-1 block font-display text-lg text-ink-2 group-hover:text-ink">{unit.title}</span>
             </Link>
           )}
           <Link href={nextHref} className="group sm:text-right">
             <span className="kicker">Next →</span>
-            <span className="mt-1 block font-serif text-lg text-ink-2 group-hover:text-ink">{next ? next.title : "Unit quiz"}</span>
+            <span className="mt-1 block font-display text-lg text-ink-2 group-hover:text-ink">{next ? next.title : "Unit quiz"}</span>
           </Link>
         </nav>
       </div>

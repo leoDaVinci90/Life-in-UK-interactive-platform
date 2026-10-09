@@ -1,0 +1,52 @@
+{
+  "the-uk-today-john-o-groats": {
+    "src": "/images/the-uk-today-john-o-groats.jpg",
+    "width": 1920,
+    "height": 1280,
+    "title": "John o' Groats Signpost (cropped).jpg",
+    "author": "Davidcarroll",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_o%27_Groats_Signpost_(cropped).jpg"
+  },
+  "the-uk-today-lands-end": {
+    "src": "/images/the-uk-today-lands-end.jpg",
+    "width": 1024,
+    "height": 718,
+    "title": "Land's End sign 2013 - geograph.org.uk - 3700553.jpg",
+    "author": "Steve Fareham",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Land%27s_End_sign_2013_-_geograph.org.uk_-_3700553.jpg"
+  },
+  "the-uk-today-edinburgh": {
+    "src": "/images/the-uk-today-edinburgh.jpg",
+    "width": 1920,
+    "height": 1278,
+    "title": "Edinburgh Castle Rock.jpg",
+    "author": "Saffron Blaze",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_Rock.jpg"
+  },
+  "the-uk-today-cardiff": {
+    "src": "/images/the-uk-today-cardiff.jpg",
+    "width": 1920,
+    "height": 960,
+    "title": "Cardiff City Hall cropped.jpg",
+    "author": "User:Yummifruitbat, cropped by User:Ham",
+    "licence": "CC BY-SA 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cardiff_City_Hall_cropped.jpg"
+  },
+  "the-uk-today-belfast": {
+    "src": "/images/the-uk-today-belfast.jpg",
+    "width": 1920,
+    "height": 1440,
+    "title": "Belfast City Hall 005.jpg",
+    "author": "Simon Burchell",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Belfast_City_Hall_005.jpg"
+  }
+}

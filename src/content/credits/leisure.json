@@ -1,0 +1,122 @@
+{
+  "leisure-kew": {
+    "src": "/images/leisure-kew.jpg",
+    "width": 1920,
+    "height": 1086,
+    "title": "Kew Gardens Palm House, London - July 2009.jpg",
+    "author": "Diliff",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kew_Gardens_Palm_House,_London_-_July_2009.jpg"
+  },
+  "leisure-bodnant": {
+    "src": "/images/leisure-bodnant.jpg",
+    "width": 1920,
+    "height": 1440,
+    "title": "Laburnam Arch In Bodnant Garden (52141392995).jpg",
+    "author": "Alan Raine from Cheshire",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Laburnam_Arch_In_Bodnant_Garden_(52141392995).jpg"
+  },
+  "leisure-sissinghurst": {
+    "src": "/images/leisure-sissinghurst.jpg",
+    "width": 1920,
+    "height": 865,
+    "title": "Sissinghurst Castle Garden aerial view.jpg",
+    "author": "Lieven Smits",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sissinghurst_Castle_Garden_aerial_view.jpg"
+  },
+  "leisure-mount-stewart": {
+    "src": "/images/leisure-mount-stewart.jpg",
+    "width": 1920,
+    "height": 1440,
+    "title": "Mount Stewart Gardens (2) - geograph.org.uk - 4550541.jpg",
+    "author": "Michael Dibb",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mount_Stewart_Gardens_(2)_-_geograph.org.uk_-_4550541.jpg"
+  },
+  "leisure-fish-and-chips": {
+    "src": "/images/leisure-fish-and-chips.jpg",
+    "width": 1920,
+    "height": 1272,
+    "title": "Fish and chips blackpool.jpg",
+    "author": "Matthias Meckel",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fish_and_chips_blackpool.jpg"
+  },
+  "leisure-welsh-cakes": {
+    "src": "/images/leisure-welsh-cakes.jpg",
+    "width": 1024,
+    "height": 768,
+    "title": "Welsh cakes.jpg",
+    "author": "Phil Guest",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Welsh_cakes.jpg"
+  },
+  "leisure-ulster-fry": {
+    "src": "/images/leisure-ulster-fry.jpg",
+    "width": 1920,
+    "height": 1440,
+    "title": "Ulster fry.jpg",
+    "author": "Adriao",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ulster_fry.jpg"
+  },
+  "leisure-chaplin": {
+    "src": "/images/leisure-chaplin.jpg",
+    "width": 1920,
+    "height": 2377,
+    "title": "Charlie Chaplin.jpg",
+    "author": "P.D Jankens",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlie_Chaplin.jpg"
+  },
+  "leisure-hitchcock": {
+    "src": "/images/leisure-hitchcock.jpg",
+    "width": 808,
+    "height": 973,
+    "title": "Hitchcock, Alfred 02.jpg",
+    "author": "Ante Brkan",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hitchcock,_Alfred_02.jpg"
+  },
+  "leisure-punch": {
+    "src": "/images/leisure-punch.png",
+    "width": 1920,
+    "height": 2605,
+    "title": "Punch volume 1 cover (1841).png",
+    "author": "unspecified.",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Punch_volume_1_cover_(1841).png"
+  },
+  "leisure-pub": {
+    "src": "/images/leisure-pub.jpg",
+    "width": 1024,
+    "height": 680,
+    "title": "The Village Pub, Barnsley - geograph.org.uk - 2707410.jpg",
+    "author": "Philip Halling",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Village_Pub,_Barnsley_-_geograph.org.uk_-_2707410.jpg"
+  },
+  "leisure-haggis": {
+    "src": "/images/leisure-haggis.jpg",
+    "width": 640,
+    "height": 480,
+    "title": "Haggis, neeps & tatties.jpg",
+    "author": "Edinburgh Blog",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haggis,_neeps_%26_tatties.jpg"
+  }
+}

@@ -93,8 +93,8 @@ export function SectionHeading({ kicker, title, children }: { kicker?: string; t
   return (
     <div className="mb-6 flex flex-wrap items-end justify-between gap-4 border-b hairline pb-3">
       <div>
-        {kicker && <Kicker className="mb-1">{kicker}</Kicker>}
-        <h2 className="display text-[1.75rem] sm:text-[2rem]">{title}</h2>
+        {kicker && <Kicker className="mb-2 !text-accent">{kicker}</Kicker>}
+        <h2 className="display text-[1.7rem] sm:text-[2.1rem]">{title}</h2>
       </div>
       {children}
     </div>

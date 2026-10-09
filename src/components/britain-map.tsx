@@ -16,6 +16,15 @@ const ERA_COLOUR: Record<string, string> = {
   Viking: "var(--ink-2)",
   Norman: "var(--accent)",
 };
+const PALETTE = ["var(--accent)", "var(--sage)", "var(--gold)", "var(--wine)", "var(--ink-2)"];
+
+/** A stable colour per category, so the same label always gets the same dot. */
+function eraColour(era: string) {
+  if (ERA_COLOUR[era]) return ERA_COLOUR[era];
+  let h = 0;
+  for (const ch of era) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
+  return PALETTE[h % PALETTE.length];
+}
 
 /**
  * Interactive map of Britain drawn from Natural Earth outlines.
@@ -71,7 +80,7 @@ export function BritainMap({
                   y1={a[1]}
                   x2={b[0]}
                   y2={b[1]}
-                  stroke={ERA_COLOUR[p.era] ?? "var(--accent)"}
+                  stroke={eraColour(p.era)}
                   strokeWidth={(p.id === selected ? 4 : 3) * scale}
                   strokeLinecap="round"
                   className="cursor-pointer"
@@ -85,7 +94,7 @@ export function BritainMap({
             const r = (isSel ? 7 : 5) * scale;
             const side = p.label?.side ?? "right";
             const dy = (p.label?.dy ?? 0) * scale;
-            const colour = ERA_COLOUR[p.era] ?? "var(--accent)";
+            const colour = eraColour(p.era);
             return (
               <g
                 key={p.id}
@@ -132,7 +141,7 @@ export function BritainMap({
                 className={cn("flex w-full items-start gap-3 py-3 text-left transition-colors", p.id === selected ? "text-ink" : "text-ink-2 hover:text-ink")}
                 aria-expanded={p.id === selected}
               >
-                <span className="mt-1.5 h-2.5 w-2.5 shrink-0 rounded-full" style={{ background: ERA_COLOUR[p.era] ?? "var(--accent)" }} />
+                <span className="mt-1.5 h-2.5 w-2.5 shrink-0 rounded-full" style={{ background: eraColour(p.era) }} />
                 <span className="grid gap-1">
                   <span className="font-sans text-sm font-semibold">
                     {p.name} <span className="kicker ml-1 !text-[0.6rem]">{p.era}</span>

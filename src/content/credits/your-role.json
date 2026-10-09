@@ -1,0 +1,42 @@
+{
+  "your-role-litter-pick": {
+    "src": "/images/your-role-litter-pick.jpg",
+    "width": 1280,
+    "height": 1280,
+    "title": "Volunteers litter-picking in Forbes Hole - geograph.org.uk - 4188151.jpg",
+    "author": "David Lally",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Volunteers_litter-picking_in_Forbes_Hole_-_geograph.org.uk_-_4188151.jpg"
+  },
+  "your-role-recycling-bins": {
+    "src": "/images/your-role-recycling-bins.jpg",
+    "width": 1920,
+    "height": 1398,
+    "title": "Recycling bins on Mare Street, Hackney - geograph.org.uk - 7017611.jpg",
+    "author": "David Howard",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Recycling_bins_on_Mare_Street,_Hackney_-_geograph.org.uk_-_7017611.jpg"
+  },
+  "your-role-blood-donor-centre": {
+    "src": "/images/your-role-blood-donor-centre.jpg",
+    "width": 1024,
+    "height": 768,
+    "title": "Leeds central blood donor centre - geograph.org.uk - 6776812.jpg",
+    "author": "Stephen Craven",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leeds_central_blood_donor_centre_-_geograph.org.uk_-_6776812.jpg"
+  },
+  "your-role-polling-station": {
+    "src": "/images/your-role-polling-station.jpg",
+    "width": 1920,
+    "height": 1200,
+    "title": "Vote- Polling station for UK's 2017 general election.jpg",
+    "author": "Descrier",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vote-_Polling_station_for_UK%27s_2017_general_election.jpg"
+  }
+}

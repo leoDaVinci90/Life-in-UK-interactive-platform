@@ -1,0 +1,52 @@
+{
+  "dc-chartist-meeting": {
+    "src": "/images/dc-chartist-meeting.jpg",
+    "width": 1499,
+    "height": 1073,
+    "title": "Chartist meeting, Kennington Common.jpg",
+    "author": "William Edward Kilburn",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chartist_meeting,_Kennington_Common.jpg"
+  },
+  "dc-palace-of-westminster": {
+    "src": "/images/dc-palace-of-westminster.jpg",
+    "width": 1920,
+    "height": 1080,
+    "title": "London, Palace of Westminster -- 2016 -- 4800.jpg",
+    "author": "Dietmar Rabich",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:London,_Palace_of_Westminster_--_2016_--_4800.jpg"
+  },
+  "dc-commons-chamber": {
+    "src": "/images/dc-commons-chamber.jpg",
+    "width": 1024,
+    "height": 573,
+    "title": "UK Commons Chamber 2012.jpg",
+    "author": "UK Parliament",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:UK_Commons_Chamber_2012.jpg"
+  },
+  "dc-lords-chamber": {
+    "src": "/images/dc-lords-chamber.jpg",
+    "width": 1920,
+    "height": 1280,
+    "title": "House of Lords 2011.jpg",
+    "author": "UK government",
+    "licence": "OGL 3",
+    "licenceUrl": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:House_of_Lords_2011.jpg"
+  },
+  "dc-elizabeth-ii": {
+    "src": "/images/dc-elizabeth-ii.jpg",
+    "width": 739,
+    "height": 985,
+    "title": "Queen Elizabeth II official portrait for 1959 tour (retouched) (cropped) (3-to-4 aspect ratio).jpg",
+    "author": "Donald McKague",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg"
+  }
+}

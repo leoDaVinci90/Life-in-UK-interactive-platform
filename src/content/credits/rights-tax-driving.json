@@ -1,0 +1,32 @@
+{
+  "rights-tax-driving-magna-carta": {
+    "src": "/images/rights-tax-driving-magna-carta.jpg",
+    "width": 1920,
+    "height": 1280,
+    "title": "Magna Carta (British Library Cotton MS Augustus II.106).jpg",
+    "author": "Original authors were the barons and King John of England. Uploaded by Earthsound.",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg"
+  },
+  "rights-tax-driving-bill-of-rights": {
+    "src": "/images/rights-tax-driving-bill-of-rights.jpg",
+    "width": 304,
+    "height": 614,
+    "title": "English Bill of Rights of 1689.jpg",
+    "author": "Parliament of the United Kingdom",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:English_Bill_of_Rights_of_1689.jpg"
+  },
+  "rights-tax-driving-learner-car": {
+    "src": "/images/rights-tax-driving-learner-car.jpg",
+    "width": 1920,
+    "height": 2560,
+    "title": "Compact Learner Car Parked in UK Park.jpg",
+    "author": "TudorTulok",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Compact_Learner_Car_Parked_in_UK_Park.jpg"
+  }
+}

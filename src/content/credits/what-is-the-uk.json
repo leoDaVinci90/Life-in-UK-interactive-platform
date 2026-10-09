@@ -1,0 +1,52 @@
+{
+  "what-is-the-uk-satellite": {
+    "src": "/images/what-is-the-uk-satellite.jpg",
+    "width": 1920,
+    "height": 1972,
+    "title": "British Isles (MODIS 2018-03-01).jpg",
+    "author": "Jeff Schmaltz, MODIS Land Rapid Response Team, NASA GSFC",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Isles_(MODIS_2018-03-01).jpg"
+  },
+  "what-is-the-uk-castle-cornet": {
+    "src": "/images/what-is-the-uk-castle-cornet.jpg",
+    "width": 1920,
+    "height": 1280,
+    "title": "Guernsey Castle Cornet.jpg",
+    "author": "Unukorno",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guernsey_Castle_Cornet.jpg"
+  },
+  "what-is-the-uk-tynwald": {
+    "src": "/images/what-is-the-uk-tynwald.jpg",
+    "width": 1920,
+    "height": 1440,
+    "title": "Tynwald Hill, St John's, Isle of Man - geograph.org.uk - 4873187.jpg",
+    "author": "Neil Theasby",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tynwald_Hill,_St_John%27s,_Isle_of_Man_-_geograph.org.uk_-_4873187.jpg"
+  },
+  "what-is-the-uk-stanley": {
+    "src": "/images/what-is-the-uk-stanley.jpg",
+    "width": 1920,
+    "height": 1443,
+    "title": "FAL-2016-Stanley, Falkland Islands–Christ Church Cathedral.jpg",
+    "author": "Godot13",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:FAL-2016-Stanley,_Falkland_Islands%E2%80%93Christ_Church_Cathedral.jpg"
+  },
+  "what-is-the-uk-jamestown": {
+    "src": "/images/what-is-the-uk-jamestown.jpg",
+    "width": 1920,
+    "height": 1001,
+    "title": "St-Helena-Jamestown.jpg",
+    "author": "Andrew Neaum",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:St-Helena-Jamestown.jpg"
+  }
+}

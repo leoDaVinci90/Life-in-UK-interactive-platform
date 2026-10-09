@@ -91,7 +91,7 @@ export function Dashboard() {
                   <li key={c.number} className="grid grid-cols-[2rem_minmax(0,1fr)_auto] items-center gap-4 py-4">
                     <span className="numeral text-2xl text-gold">{c.number}</span>
                     <div className="grid gap-2">
-                      <span className="font-serif text-[1.15rem] leading-tight text-ink">{c.title}</span>
+                      <span className="font-display text-[1.15rem] leading-tight text-ink">{c.title}</span>
                       <ProgressBar value={mastery} />
                     </div>
                     <span className="font-sans text-xs tabular-nums text-muted">
@@ -110,7 +110,7 @@ export function Dashboard() {
               {o.stats.map((s) => (
                 <Link key={s.unit.id} href={`/units/${s.unit.id}`} className="grid gap-3 rounded-[3px] border hairline bg-card p-5 hover:border-ink/40">
                   <div className="flex flex-wrap items-center justify-between gap-2">
-                    <span className="font-serif text-[1.2rem] text-ink">
+                    <span className="font-display text-[1.2rem] text-ink">
                       <span className="numeral mr-2 text-gold">{s.unit.number}</span>
                       {s.unit.title}
                     </span>

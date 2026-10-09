@@ -23,10 +23,9 @@ The handbook is not committed to this repository. To enable the "Handbook p. N" 
 
 ## Status
 
-| Part | Status |
-|---|---|
-| 3.1 Early Britain (handbook § 3.7, pp. 39–42) | Prototype: complete |
-| Everything else | Planned, shown in the curriculum |
+All 21 parts of the handbook are written: 750 practice questions, 627 flashcards and 242 openly licensed images,
+each with handbook page references. Accuracy notes for dated or inconsistent content are in each part's
+"About the source" section and on the Sources page.
 
 ## How it is organised
 
@@ -34,12 +33,12 @@ The handbook is not committed to this repository. To enable the "Handbook p. N" 
 src/content/            Typed content, one file per part (units/early-britain.ts)
 src/content/curriculum.ts  Chapter and part structure, with handbook page ranges
 src/content/flags.ts    Accuracy notes found while analysing the PDF
-src/content/image-credits.json  Image licences and authors (generated)
+src/content/credits/      Image licences and authors, one file per part (generated)
 src/content/map/basemap.json    Map outlines (generated)
 src/lib/progress.ts     localStorage progress store (export/import on the dashboard)
 src/lib/srs.ts          Spaced-repetition scheduler (simplified SM-2)
 src/components/         Timeline, map, flashcards, quiz, figures, lesson blocks
-scripts/fetch-images.mjs  Downloads Wikimedia Commons images and records attribution
+scripts/fetch-images.mjs  Downloads Wikimedia Commons images: node scripts/fetch-images.mjs <unit-id> <list.json>
 scripts/build-map.py      Builds map outlines from Natural Earth (public domain)
 ```
 

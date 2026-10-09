@@ -13,7 +13,9 @@ export type ImageKind =
   | "manuscript"
   | "later depiction"
   | "aerial photograph"
-  | "illustration";
+  | "illustration"
+  | "painting"
+  | "portrait";
 
 export interface FigureRef {
   imageId: string;
@@ -43,7 +45,7 @@ export type Block =
   | { type: "context"; title: string; body: Context[] }
   | { type: "cards"; heading?: string; cards: InfoCard[] }
   | { type: "map"; heading?: string; placeIds: string[]; caption?: string }
-  | { type: "sequence"; heading: string; steps: { label: string; detail: string }[]; page: Page }
+  | { type: "sequence"; heading: string; steps: { label: string; detail?: string }[]; page: Page }
   | { type: "quote"; text: string; attribution: string };
 
 export interface InfoCard {

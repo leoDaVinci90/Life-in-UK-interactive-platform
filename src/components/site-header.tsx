@@ -28,11 +28,11 @@ export function SiteHeader() {
     href === "/" ? pathname === "/" : pathname.startsWith(href) || (href === "/curriculum" && pathname.startsWith("/units"));
 
   return (
-    <header className="relative z-40 border-b hairline bg-paper/90 backdrop-blur supports-[backdrop-filter]:bg-paper/75 sm:sticky sm:top-0">
+    <header className="relative z-40 bg-night text-night-ink shadow-[0_1px_0_rgba(0,0,0,0.4)] sm:sticky sm:top-0">
       <div className="mx-auto flex max-w-6xl flex-wrap items-center gap-x-6 gap-y-1 px-4 py-3 sm:flex-nowrap sm:px-8">
         <Link href="/" className="group flex shrink-0 items-baseline gap-2">
-          <span className="font-serif text-[1.35rem] font-semibold tracking-tight text-ink">Life in the UK</span>
-          <span className="kicker hidden sm:inline">Study edition</span>
+          <span className="font-display text-[1.2rem] uppercase tracking-[0.06em] text-night-ink">Life in the UK</span>
+          <span className="kicker hidden !text-night-ink/45 sm:inline">Study edition</span>
         </Link>
         <nav aria-label="Main" className="order-last -mx-2.5 flex w-[calc(100%+1.25rem)] items-center gap-1 overflow-x-auto [scrollbar-width:none] sm:order-none sm:mx-0 sm:w-auto sm:flex-1">
           {NAV.map((n) => (
@@ -41,17 +41,17 @@ export function SiteHeader() {
               href={n.href}
               aria-current={isActive(n.href) ? "page" : undefined}
               className={cn(
-                "relative whitespace-nowrap rounded px-2.5 py-1.5 text-[0.86rem] transition-colors",
-                isActive(n.href) ? "bg-paper-2 text-ink sm:bg-transparent" : "text-muted hover:text-ink",
+                "relative whitespace-nowrap rounded px-2.5 py-1.5 text-[0.72rem] font-semibold uppercase tracking-[0.12em] transition-colors",
+                isActive(n.href) ? "bg-white/10 text-night-ink sm:bg-transparent" : "text-night-ink/55 hover:text-night-ink",
               )}
             >
               {n.label}
               {n.href === "/review" && due > 0 && (
-                <span className="ml-1.5 rounded-full bg-accent px-1.5 py-0.5 text-[0.68rem] font-semibold text-paper tabular-nums">
+                <span className="ml-1.5 rounded-full bg-accent px-1.5 py-0.5 text-[0.62rem] font-semibold tracking-normal text-night tabular-nums">
                   {due}
                 </span>
               )}
-              {isActive(n.href) && <span className="absolute inset-x-2.5 -bottom-[13px] hidden h-px bg-ink sm:block" />}
+              {isActive(n.href) && <span className="absolute inset-x-2.5 -bottom-[13px] hidden h-px bg-accent sm:block" />}
             </Link>
           ))}
         </nav>
@@ -77,7 +77,7 @@ function ThemeToggle() {
   return (
     <button
       onClick={cycle}
-      className="shrink-0 rounded-full border hairline p-2 text-muted transition-colors hover:text-ink"
+      className="shrink-0 rounded-full border border-night-ink/20 p-2 text-night-ink/60 transition-colors hover:text-night-ink"
       aria-label="Switch light or dark theme"
       title="Switch light or dark theme"
     >

@@ -37,13 +37,13 @@ export default function CurriculumPage() {
                       {img ? (
                         <Image src={img.src} alt="" fill sizes="112px" className="object-cover" />
                       ) : (
-                        <span className="absolute inset-0 grid place-items-center font-serif text-2xl text-rule">{u.number}</span>
+                        <span className="absolute inset-0 grid place-items-center font-display text-2xl text-rule">{u.number}</span>
                       )}
                     </div>
                     <div className="grid flex-1 content-start gap-1">
                       <div className="flex flex-wrap items-center gap-3">
                         <span className="numeral text-lg text-gold">{u.number}</span>
-                        <span className={`font-serif text-[1.3rem] leading-tight ${u.status === "available" ? "text-ink" : "text-ink-2"}`}>{u.title}</span>
+                        <span className={`font-display text-[1.3rem] leading-tight ${u.status === "available" ? "text-ink" : "text-ink-2"}`}>{u.title}</span>
                         <UnitBadge unitId={u.id} planned={u.status === "planned"} />
                       </div>
                       <p className="font-sans text-sm leading-snug text-ink-2">{u.dek}</p>

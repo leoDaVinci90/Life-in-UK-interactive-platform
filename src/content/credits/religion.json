@@ -1,0 +1,32 @@
+{
+  "religion-canterbury-cathedral": {
+    "src": "/images/religion-canterbury-cathedral.jpg",
+    "width": 1920,
+    "height": 1477,
+    "title": "Canterbury Cathedral - Portal Nave Cross-spire.jpeg",
+    "author": "Hans Musil",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg"
+  },
+  "religion-st-giles": {
+    "src": "/images/religion-st-giles.jpg",
+    "width": 1920,
+    "height": 1080,
+    "title": "St Giles Cathedral Edinburgh - landscape.jpg",
+    "author": "Stinglehammer",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Giles_Cathedral_Edinburgh_-_landscape.jpg"
+  },
+  "religion-neasden-mandir": {
+    "src": "/images/religion-neasden-mandir.jpg",
+    "width": 1920,
+    "height": 1440,
+    "title": "BAPS Shri Swaminarayan Mandir London.jpg",
+    "author": "Mark Ahsmann",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:BAPS_Shri_Swaminarayan_Mandir_London.jpg"
+  }
+}

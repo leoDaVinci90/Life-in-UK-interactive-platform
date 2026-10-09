@@ -27,34 +27,41 @@ export default async function UnitPage({ params }: { params: Promise<{ unitId: s
   return (
     <article>
       {/* Hero */}
-      <header className="relative border-b hairline">
-        {hero && (
-          <div className="absolute inset-0 overflow-hidden">
-            <Image src={hero.src} alt="" fill priority sizes="100vw" className="object-cover opacity-[0.22] dark:opacity-[0.16]" />
-            <div className="absolute inset-0 bg-gradient-to-b from-paper/40 via-paper/70 to-paper" />
+      <header className="border-b hairline">
+        <div className="mx-auto grid max-w-6xl items-center gap-12 px-4 pb-16 pt-14 sm:px-8 sm:pt-20 lg:grid-cols-[minmax(0,1.05fr)_minmax(0,0.95fr)]">
+          <div>
+            <nav className="kicker mb-8 flex flex-wrap gap-2" aria-label="Breadcrumb">
+              <Link href="/curriculum" className="hover:text-ink">
+                Curriculum
+              </Link>
+              <span>/</span>
+              <span>
+                Chapter {unit.handbook.chapter} · {unit.handbook.chapterTitle}
+              </span>
+            </nav>
+            <h1 className="display max-w-3xl text-[2.7rem] sm:text-[4.4rem]">{unit.title}</h1>
+            <div className="ornament mt-5 max-w-sm">
+              <span className="font-display text-sm">Part {unit.number}</span>
+            </div>
+            <p className="mt-6 max-w-xl text-[1.12rem] leading-relaxed text-ink-2">{unit.dek}</p>
+            <div className="mt-6 flex flex-wrap items-center gap-4">
+              <span className="font-sans text-sm text-muted">
+                Handbook § {unit.handbook.section} · {unit.lessons?.length} lessons ·{" "}
+                {unit.lessons?.reduce((s, l) => s + l.minutes, 0)} min
+              </span>
+              <SourceRef pages={unit.handbook.pages} />
+            </div>
           </div>
-        )}
-        <div className="relative mx-auto max-w-6xl px-4 pb-14 pt-16 sm:px-8 sm:pt-24">
-          <nav className="kicker mb-6 flex flex-wrap gap-2" aria-label="Breadcrumb">
-            <Link href="/curriculum" className="hover:text-ink">
-              Curriculum
-            </Link>
-            <span>/</span>
-            <span>
-              Chapter {unit.handbook.chapter} · {unit.handbook.chapterTitle}
-            </span>
-          </nav>
-          <p className="numeral text-2xl text-gold">Part {unit.number}</p>
-          <h1 className="display mt-1 max-w-3xl text-[3.2rem] sm:text-[5rem]">{unit.title}</h1>
-          <p className="mt-5 max-w-2xl font-serif text-[1.35rem] leading-snug text-ink-2">{unit.dek}</p>
-          <div className="mt-6 flex flex-wrap items-center gap-4">
-            <span className="font-sans text-sm text-muted">
-              Handbook § {unit.handbook.section} · {unit.lessons?.length} lessons ·{" "}
-              {unit.lessons?.reduce((s, l) => s + l.minutes, 0)} min
-            </span>
-            <SourceRef pages={unit.handbook.pages} />
-          </div>
-          {hero && unit.heroImageId && <Credit imageId={unit.heroImageId} className="mt-8 block" />}
+          {hero && unit.heroImageId && (
+            <figure>
+              <div className="painting-frame -rotate-1">
+                <div className="relative aspect-[4/3] overflow-hidden bg-paper-2">
+                  <Image src={hero.src} alt="" fill priority sizes="(min-width: 1024px) 520px, 100vw" className="object-cover" />
+                </div>
+              </div>
+              <Credit imageId={unit.heroImageId} className="mt-5 block" />
+            </figure>
+          )}
         </div>
       </header>
 

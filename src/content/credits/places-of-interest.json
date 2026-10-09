@@ -1,0 +1,92 @@
+{
+  "places-big-ben": {
+    "src": "/images/places-big-ben.jpg",
+    "width": 1920,
+    "height": 3829,
+    "title": "Clock Tower - Palace of Westminster, London - May 2007.jpg",
+    "author": "Diliff",
+    "licence": "CC BY 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clock_Tower_-_Palace_of_Westminster,_London_-_May_2007.jpg"
+  },
+  "places-london-eye": {
+    "src": "/images/places-london-eye.jpg",
+    "width": 1920,
+    "height": 1280,
+    "title": "London Eye Twilight April 2006.jpg",
+    "author": "User:Diliff",
+    "licence": "CC BY 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:London_Eye_Twilight_April_2006.jpg"
+  },
+  "places-tower-of-london": {
+    "src": "/images/places-tower-of-london.jpg",
+    "width": 1920,
+    "height": 1206,
+    "title": "Tower of London viewed from the River Thames.jpg",
+    "author": "Bob Collowan",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tower_of_London_viewed_from_the_River_Thames.jpg"
+  },
+  "places-eden-project": {
+    "src": "/images/places-eden-project.jpg",
+    "width": 1920,
+    "height": 599,
+    "title": "Eden Project geodesic domes panorama.jpg",
+    "author": "Jürgen Matern",
+    "licence": "CC BY-SA 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eden_Project_geodesic_domes_panorama.jpg"
+  },
+  "places-edinburgh-castle": {
+    "src": "/images/places-edinburgh-castle.jpg",
+    "width": 1920,
+    "height": 1278,
+    "title": "Edinburgh Castle from the Grassmarket.jpg",
+    "author": "Stephencdickson",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_from_the_Grassmarket.jpg"
+  },
+  "places-giants-causeway": {
+    "src": "/images/places-giants-causeway.jpg",
+    "width": 1920,
+    "height": 2899,
+    "title": "Giant's Causeway.jpg",
+    "author": "Evawikieva",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giant%27s_Causeway.jpg"
+  },
+  "places-loch-lomond": {
+    "src": "/images/places-loch-lomond.jpg",
+    "width": 800,
+    "height": 602,
+    "title": "Loch Lomond.jpg",
+    "author": "James Morrison from Edinburgh, Scotland",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Loch_Lomond.jpg"
+  },
+  "places-lake-district": {
+    "src": "/images/places-lake-district.jpg",
+    "width": 1024,
+    "height": 768,
+    "title": "Wast Water in the evening.jpg",
+    "author": "Andrew Hayward",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wast_Water_in_the_evening.jpg"
+  },
+  "places-snowdon": {
+    "src": "/images/places-snowdon.jpg",
+    "width": 1920,
+    "height": 1440,
+    "title": "Llynnau Mymbyr and Snowdon Massif - geograph.org.uk - 4976866.jpg",
+    "author": "I Love Colour",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Llynnau_Mymbyr_and_Snowdon_Massif_-_geograph.org.uk_-_4976866.jpg"
+  }
+}

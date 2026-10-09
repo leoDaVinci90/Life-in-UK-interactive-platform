@@ -1,0 +1,162 @@
+{
+  "middle-ages-conwy-castle": {
+    "src": "/images/middle-ages-conwy-castle.jpg",
+    "width": 1920,
+    "height": 1275,
+    "title": "Conwy Castle (7989).jpg",
+    "author": "Nilfanion",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Conwy_Castle_(7989).jpg"
+  },
+  "middle-ages-caernarfon-castle": {
+    "src": "/images/middle-ages-caernarfon-castle.jpg",
+    "width": 1920,
+    "height": 1280,
+    "title": "Caernarfon Castle 1994.jpg",
+    "author": "Herbert Ortner",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caernarfon_Castle_1994.jpg"
+  },
+  "middle-ages-bruce-statue": {
+    "src": "/images/middle-ages-bruce-statue.jpg",
+    "width": 1920,
+    "height": 1440,
+    "title": "Robert Bruce statue, Bannockburn.jpg",
+    "author": "Kim Traynor",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert_Bruce_statue,_Bannockburn.jpg"
+  },
+  "middle-ages-bannockburn-scotichronicon": {
+    "src": "/images/middle-ages-bannockburn-scotichronicon.jpg",
+    "width": 633,
+    "height": 991,
+    "title": "Battle of Bannockburn.jpg",
+    "author": "Unknown authorUnknown author",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Battle_of_Bannockburn.jpg"
+  },
+  "middle-ages-agincourt": {
+    "src": "/images/middle-ages-agincourt.jpg",
+    "width": 1920,
+    "height": 1279,
+    "title": "Schlacht von Azincourt.jpg",
+    "author": "Unknown",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schlacht_von_Azincourt.jpg"
+  },
+  "middle-ages-black-death": {
+    "src": "/images/middle-ages-black-death.jpg",
+    "width": 400,
+    "height": 418,
+    "title": "Burying Plague Victims of Tournai.jpg",
+    "author": "Unknown authorUnknown author",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Burying_Plague_Victims_of_Tournai.jpg"
+  },
+  "middle-ages-magna-carta": {
+    "src": "/images/middle-ages-magna-carta.jpg",
+    "width": 1920,
+    "height": 1280,
+    "title": "Magna Carta (British Library Cotton MS Augustus II.106).jpg",
+    "author": "Original authors were the barons and King John of England. Uploaded by Earthsound.",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg"
+  },
+  "middle-ages-chaucer": {
+    "src": "/images/middle-ages-chaucer.jpg",
+    "width": 776,
+    "height": 920,
+    "title": "Geoffrey Chaucer, Tale of Melibee, Ellesmere Chaucer, mssEL 26 C 9, folio 153v cropped tight.jpg",
+    "author": "unknown artist, 1400-1410, England",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geoffrey_Chaucer,_Tale_of_Melibee,_Ellesmere_Chaucer,_mssEL_26_C_9,_folio_153v_cropped_tight.jpg"
+  },
+  "middle-ages-caxton-tales": {
+    "src": "/images/middle-ages-caxton-tales.png",
+    "width": 331,
+    "height": 283,
+    "title": "Canterbury Tales.png",
+    "author": "Unknown",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canterbury_Tales.png"
+  },
+  "middle-ages-windsor-castle": {
+    "src": "/images/middle-ages-windsor-castle.jpg",
+    "width": 1920,
+    "height": 1107,
+    "title": "Windsor Castle (39968064392).jpg",
+    "author": "Mike McBey",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Windsor_Castle_(39968064392).jpg"
+  },
+  "middle-ages-edinburgh-castle": {
+    "src": "/images/middle-ages-edinburgh-castle.jpg",
+    "width": 1920,
+    "height": 1280,
+    "title": "Castle, City of Edinburgh (IMG 20190628 180330).jpg",
+    "author": "Matti Blume",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castle,_City_of_Edinburgh_(IMG_20190628_180330).jpg"
+  },
+  "middle-ages-lincoln-cathedral": {
+    "src": "/images/middle-ages-lincoln-cathedral.jpg",
+    "width": 1920,
+    "height": 1282,
+    "title": "Lincoln Cathedral, The west front - geograph.org.uk - 4544143.jpg",
+    "author": "Michael Garlick",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lincoln_Cathedral,_The_west_front_-_geograph.org.uk_-_4544143.jpg"
+  },
+  "middle-ages-york-minster-glass": {
+    "src": "/images/middle-ages-york-minster-glass.jpg",
+    "width": 1680,
+    "height": 1297,
+    "title": "York Minster - Great East Window - top.jpg",
+    "author": "Coventry glazier John Thornton",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:York_Minster_-_Great_East_Window_-_top.jpg"
+  },
+  "middle-ages-tudor-rose": {
+    "src": "/images/middle-ages-tudor-rose.png",
+    "width": 1920,
+    "height": 1920,
+    "title": "Tudor Rose.svg",
+    "author": "Sodacan",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tudor_Rose.svg"
+  },
+  "middle-ages-richard-iii": {
+    "src": "/images/middle-ages-richard-iii.jpg",
+    "width": 941,
+    "height": 1303,
+    "title": "Richard III portrait.jpg",
+    "author": "Barthel ii",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Richard_III_portrait.jpg"
+  },
+  "middle-ages-elizabeth-of-york": {
+    "src": "/images/middle-ages-elizabeth-of-york.jpg",
+    "width": 1156,
+    "height": 1650,
+    "title": "British School, 16th century - Elizabeth of York (1465-1503) - RCIN 403447 - Royal Collection.jpg",
+    "author": "After Meynnart Wewyck",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_School,_16th_century_-_Elizabeth_of_York_(1465-1503)_-_RCIN_403447_-_Royal_Collection.jpg"
+  }
+}

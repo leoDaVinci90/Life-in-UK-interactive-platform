@@ -52,7 +52,7 @@ export function Timeline({ events, unitId }: { events: TimelineEvent[]; unitId: 
                   )}
                 >
                   <DateLabel e={e} />
-                  <span className={cn("block font-serif text-[1.15rem] leading-snug", active ? "text-ink" : "text-ink-2 group-hover:text-ink")}>
+                  <span className={cn("block font-display text-[1.15rem] leading-snug", active ? "text-ink" : "text-ink-2 group-hover:text-ink")}>
                     {e.title}
                   </span>
                 </button>
