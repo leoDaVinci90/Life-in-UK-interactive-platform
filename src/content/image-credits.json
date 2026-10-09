@@ -1,0 +1,172 @@
+{
+  "stonehenge": {
+    "src": "/images/stonehenge.jpg",
+    "width": 1920,
+    "height": 1440,
+    "title": "Stonehenge2007 07 30.jpg",
+    "author": "garethwiscombe",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg"
+  },
+  "skara-brae": {
+    "src": "/images/skara-brae.jpg",
+    "width": 1600,
+    "height": 1063,
+    "title": "Skara Brae - geograph.org.uk - 3912232.jpg",
+    "author": "Stuart Wilding",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skara_Brae_-_geograph.org.uk_-_3912232.jpg"
+  },
+  "maiden-castle": {
+    "src": "/images/maiden-castle.jpg",
+    "width": 500,
+    "height": 384,
+    "title": "Aerial photograph of Maiden Castle from the west, 1937.jpg",
+    "author": "Major George Allen (1891–1940)",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_Maiden_Castle_from_the_west,_1937.jpg"
+  },
+  "cunobelinus-coin": {
+    "src": "/images/cunobelinus-coin.jpg",
+    "width": 1920,
+    "height": 1175,
+    "title": "Iron Age coin , stater of Cunobelinus (FindID 881348).jpg",
+    "author": "Hampshire Cultural Trust, Katie Hinds (Portable Antiquities Scheme)",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iron_Age_coin_,_stater_of_Cunobelinus_(FindID_881348).jpg"
+  },
+  "julius-caesar": {
+    "src": "/images/julius-caesar.jpg",
+    "width": 1606,
+    "height": 2140,
+    "title": "Retrato de Julio César (3x4 close cropped).jpg",
+    "author": "Ángel M. Felicísimo from Mérida, España",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_Julio_C%C3%A9sar_(3x4_close_cropped).jpg"
+  },
+  "claudius": {
+    "src": "/images/claudius.jpg",
+    "width": 1733,
+    "height": 2311,
+    "title": "Claudius MAN Napoli Inv6060 (cropped).jpg",
+    "author": "Marie-Lan Nguyen (2011)",
+    "licence": "CC BY 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Claudius_MAN_Napoli_Inv6060_(cropped).jpg"
+  },
+  "round-barrow": {
+    "src": "/images/round-barrow.jpg",
+    "width": 1024,
+    "height": 576,
+    "title": "Bronze Age Round Barrow (geograph 7057789).jpg",
+    "author": "Adrian Dust",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bronze_Age_Round_Barrow_(geograph_7057789).jpg"
+  },
+  "boudicca-statue": {
+    "src": "/images/boudicca-statue.jpg",
+    "width": 1920,
+    "height": 1667,
+    "title": "Boudica statue, Westminster (8433726848).jpg",
+    "author": "Paul Walter",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boudica_statue,_Westminster_(8433726848).jpg"
+  },
+  "hadrians-wall": {
+    "src": "/images/hadrians-wall.jpg",
+    "width": 1920,
+    "height": 1277,
+    "title": "Hadrian's Wall west of Housesteads 3.jpg",
+    "author": "Steven Fruitsmaak",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall_west_of_Housesteads_3.jpg"
+  },
+  "housesteads": {
+    "src": "/images/housesteads.jpg",
+    "width": 1920,
+    "height": 1285,
+    "title": "Hadrian's Wall and Housesteads Roman Fort aerial.jpg",
+    "author": "Lieven Smits",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall_and_Housesteads_Roman_Fort_aerial.jpg"
+  },
+  "sutton-hoo-helmet": {
+    "src": "/images/sutton-hoo-helmet.png",
+    "width": 1920,
+    "height": 2749,
+    "title": "Sutton Hoo helmet 2016.png",
+    "author": "user:Geni",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sutton_Hoo_helmet_2016.png"
+  },
+  "iona-abbey": {
+    "src": "/images/iona-abbey.jpg",
+    "width": 1920,
+    "height": 1280,
+    "title": "Iona Abbey - general view from SW.jpg",
+    "author": "Tom Parnell",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iona_Abbey_-_general_view_from_SW.jpg"
+  },
+  "augustine-gospels": {
+    "src": "/images/augustine-gospels.jpg",
+    "width": 1576,
+    "height": 2142,
+    "title": "Meister des Evangelienbuches des Heiligen Augustinus 001.jpg",
+    "author": "Meister des Evangelienbuches des Heiligen Augustinus",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meister_des_Evangelienbuches_des_Heiligen_Augustinus_001.jpg"
+  },
+  "alfred-statue": {
+    "src": "/images/alfred-statue.jpg",
+    "width": 1920,
+    "height": 2560,
+    "title": "Statue alfred the great winchester.jpg",
+    "author": "Tpe.g5.stan",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statue_alfred_the_great_winchester.jpg"
+  },
+  "cnut-emma": {
+    "src": "/images/cnut-emma.jpg",
+    "width": 1016,
+    "height": 1666,
+    "title": "Blmsstowe944fol6r.jpg",
+    "author": "11th century scribe",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blmsstowe944fol6r.jpg"
+  },
+  "bayeux-harold": {
+    "src": "/images/bayeux-harold.jpg",
+    "width": 1920,
+    "height": 1097,
+    "title": "Bayeux Tapestry scene57 Harold death (cropped).jpg",
+    "author": "Myrabella",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_scene57_Harold_death_(cropped).jpg"
+  },
+  "domesday-book": {
+    "src": "/images/domesday-book.jpg",
+    "width": 1804,
+    "height": 972,
+    "title": "Domesday-book-1804x972.jpg",
+    "author": "Andrews, William",
+    "licence": "Public domain",
+    "licenceUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Domesday-book-1804x972.jpg"
+  }
+}
